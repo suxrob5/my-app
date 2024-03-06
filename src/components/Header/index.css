@@ -1,0 +1,12 @@
+/* nav ul li a.active {
+  border-bottom: 3px solid red;
+  color: red;
+} */
+* {
+  transition: all ease 0.3s;
+}
+
+
+.home{
+    background: rgb(237, 22, 95);
+}
